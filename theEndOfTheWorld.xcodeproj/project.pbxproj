@@ -12,6 +12,7 @@
 		1A434A0B20FF96E400D76B03 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A434A0920FF96E400D76B03 /* Main.storyboard */; };
 		1A434A0D20FF96E600D76B03 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A434A0C20FF96E600D76B03 /* Assets.xcassets */; };
 		1A434A1020FF96E600D76B03 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A434A0E20FF96E600D76B03 /* LaunchScreen.storyboard */; };
+		1A434A1820FF970300D76B03 /* EndViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A434A1720FF970300D76B03 /* EndViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1A434A0C20FF96E600D76B03 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1A434A0F20FF96E600D76B03 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1A434A1120FF96E600D76B03 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A434A1720FF970300D76B03 /* EndViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EndViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				1A434A0C20FF96E600D76B03 /* Assets.xcassets */,
 				1A434A0E20FF96E600D76B03 /* LaunchScreen.storyboard */,
 				1A434A1120FF96E600D76B03 /* Info.plist */,
+				1A434A1720FF970300D76B03 /* EndViewController.swift */,
 			);
 			path = theEndOfTheWorld;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1A434A1820FF970300D76B03 /* EndViewController.swift in Sources */,
 				1A434A0820FF96E400D76B03 /* ViewController.swift in Sources */,
 				1A434A0620FF96E400D76B03 /* AppDelegate.swift in Sources */,
 			);
